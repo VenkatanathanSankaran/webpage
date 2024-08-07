@@ -1,0 +1,114 @@
+	
+	body {
+	margin:0;
+	max-width: 100%;
+    overflow-x: hidden;
+	}
+    
+	.uplist{
+	list-style-type: none;
+	margin:0;
+	padding:10px;
+	background-color: #1877f2;
+	height:32px;
+	background-position:top 13px;
+	}
+	
+	.toplist{
+	display:inline;
+	position:left-side;
+	background-color: #1877f2;
+    color: white;
+	}
+	
+	.toplist{
+	color:white;
+	padding-right:5px;
+	padding-left:5px;
+	text-decoration:none;
+	}
+	
+	.leftlist{
+	color:white;
+	padding-right:5px;
+	padding-left:5px;
+	padding-bottom:5px;
+	text-decoration:none;
+	font-size:20px;
+	color:white;
+	}
+	
+	
+	.new {
+	background-color:#b3ccff;
+	height:200px;
+	text-shadow: 1px 1px 2px black
+	}
+	
+	a{
+	text-decoration:none;
+	color:white;
+	text-shadow: 1px 1px 2px black
+	}
+	
+    .profiledropdown1{
+		position:relative;
+		bottom:120px;
+		left:1480px;
+		
+	}
+	
+	.profiledropdown1image{
+		position:relative;
+		bottom:90px;
+		left:1455px;
+		
+	}
+	
+	.profiledropdown2{
+		position:relative;
+		bottom:178px;
+		left:1610px;
+		
+	}
+	
+	.profiledropdown2image{
+		position:relative;
+		bottom:148px;
+		left:1585px;
+		
+	}
+	
+	.profiledropdown3{
+		position:relative;
+		bottom:235px;
+		left:1740px;	
+	}
+	
+	.profiledropdown3image{
+		position:relative;
+		bottom:205px;
+		left:1715px;	
+	}
+	
+	.status{
+		background-color:none;
+		text-shadow:none;
+	}
+	
+	li:hover{
+	color:white;			
+	text-decoration:none;
+	background-color: #0a4fa9;
+	border-radius:10px;
+	}
+	
+    li a:hover{
+	color:white;			
+	text-decoration:none;
+	background-color: #0a4fa9;
+	border-radius:10px;
+	}
+  
+	
+	
